@@ -43,5 +43,8 @@ input {
 legend {
     font-size: 19px;
     font-weight: bolder;
+    padding: 3px;
+    background-color: rgb(146, 146, 180);
+    border-radius: 4px;
 
 }
